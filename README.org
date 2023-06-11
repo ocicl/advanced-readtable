@@ -1,0 +1,9 @@
+* advanced-readtable
+
+Portable on any ANSI CL very flexible readtable with extensible find-package and find-symbol.
+
+|---------+----------------------------------------------------------|
+| source  | git:https://github.com/Kalimehtar/advanced-readtable.git |
+| commit  | 84b5bc4                                                  |
+| systems | advanced-readtable                                       |
+|---------+----------------------------------------------------------|
