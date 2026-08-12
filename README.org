@@ -7,4 +7,4 @@ Portable on any ANSI CL very flexible readtable with extensible find-package and
 | commit  | 84b5bc4                                                  |
 | systems | advanced-readtable                                       |
 |---------+----------------------------------------------------------|
- 
+  
